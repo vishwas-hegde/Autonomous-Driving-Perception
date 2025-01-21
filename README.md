@@ -2,5 +2,7 @@
 
 Deep learning stack for autonomous driving.
 1) DepthAnything
-2) Yolov8
-3) TDNet
+2) ZoeDepth
+3) Yolov8
+4) NeuFlow_v2
+5) TDNet
